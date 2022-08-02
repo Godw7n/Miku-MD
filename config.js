@@ -22,7 +22,7 @@ global.location = "kerala, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Godw7n"
 global.lolhuman = "KaysaS"
 
 
