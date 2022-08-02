@@ -26,10 +26,10 @@ global.websitex = "https://github.com/Godw7n"
 global.lolhuman = "KaysaS"
 
 
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg")
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg")
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg")
+global.BotLogo = fs.readFileSync("https://i.imgur.com/TDdAIww.mp4")
+global.Thumb = fs.readFileSync("https://i.imgur.com/UVfsQzH.mp4")
+global.Thumb1 = fs.readFileSync("https://i.imgur.com/YsfTzbn.mp4")
+global.ErrorPic = fs.readFileSync("https://i.imgur.com/H45Ktz0.mp4")
 
 
 global.ntilinkytvid = []
